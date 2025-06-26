@@ -1,7 +1,7 @@
 
 ## 📘 README: SGPA & CGPA Calculator
 
-### 🎓 Project Title: `KLU SGPA & CGPA Calculator`
+### 🎓 Project Title: `KLU SGPA & CGPA gradulator`
 
 ---
 
